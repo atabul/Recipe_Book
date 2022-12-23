@@ -1,0 +1,33 @@
+ <table class="table table-sm mb-0 pb-0 border">
+ <thead>
+ <tr>
+ <th style="width:13%;">
+ Total
+ </th>	
+                             
+ <th style="width:13%;">									
+ </th>
+                                
+ <th style="width:13%;">									
+ <input type="text" id="txtQtyTotal" class="form-control form-control-plaintext" value="" />
+ </th>
+
+ <th style="width:13%;">								    
+ </th>
+
+ <th style="width:13%;">								    
+ </th>                  
+                                
+ <th style="width:13%;">									
+ </th>					
+
+ <th style="width:13%;">									
+ <input type="text" id="txtAmountTotal" class="form-control form-control-plaintext" value="" />
+ </th>					
+                                
+ <th style="width:9%;">                                      
+ </th>
+ </tr>
+ 
+</thead>
+ </table>

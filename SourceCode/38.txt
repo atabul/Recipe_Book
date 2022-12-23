@@ -1,0 +1,249 @@
+@model InventoryBeginners.Models.PoHeader
+
+@{
+    ViewData["Title"] = "Details";
+ }
+	
+ <div class="card">
+           <div class="card-header bg-danger text-uppercase text-white text-center mb-2 pt-0" style="height:25px;">
+			<h6>Purchase Order - Delete </h6>
+            </div>		
+
+  <form id="CodeSbyAnizForm" asp-action="Delete">
+
+      <div class="col-12 btn-group">
+
+         
+    <div class="row col-11 ml-2">    
+           <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group col-2 ">
+                <label asp-for="PoNumber" class="control-label"></label>                
+            </div>
+            <div class="form-group col-3">                
+                <input asp-for="PoNumber" class="form-control form-control-plaintext" readonly/>                
+            </div>
+            
+            <div class="form-group col-2">            
+            </div>
+
+      
+
+
+            <div class="form-group col-2">
+                <label asp-for="SupplierId" class="control-label"></label>                
+            </div>            
+            <div class="form-group col-3">            
+                <select asp-for="SupplierId" class="form-control form-control-plaintext" readonly asp-items="ViewBag.SupplierList"></select>                
+            </div>
+
+
+
+            <div class="form-group col-2">
+                <label asp-for="PoCurrencyId" class="control-label"></label>                
+            </div>
+            <div class="form-group col-3">                
+                <select id="PoCurrencyId" asp-for="PoCurrencyId" class="form-control form-control-plaintext" readonly asp-items="ViewBag.PoCurrencyList" onchange="getExRate(this);"></select>                
+            </div>
+
+            <div class="form-group col-2">            
+            </div>
+
+
+            <div class="form-group col-2 ">
+                <label asp-for="ExchangeRate"  class="control-label"></label>                
+            </div>
+            <div class="form-group col-3 ">            
+                <input id="txtExchangeRate" asp-for="ExchangeRate" class="form-control form-control-plaintext" readonly/>
+                <span asp-validation-for="ExchangeRate" class="text-danger"></span>
+            </div>
+
+
+            
+            <div class="form-group col-2">
+                <label asp-for="QuotationNo" class="control-label"></label>                
+            </div>
+            <div class="form-group col-3">                
+                <input asp-for="QuotationNo" class="form-control form-control-plaintext" readonly />
+                <span asp-validation-for="QuotationNo" class="text-danger"></span>
+            </div>
+
+            <div class="form-group col-2">            
+            </div>
+
+
+            <div class="form-group col-2">
+                <label asp-for="QuotationDate" class="control-label"></label>                
+            </div>
+            <div class="form-group col-3">                
+                <input asp-for="QuotationDate" class="form-control form-control-plaintext" readonly />                
+            </div>    
+              
+
+            		<div  class="col-12 CodesDiv">
+					<table id="CodesTable" class="table table-borderless table-sm mb-0 pb-0 border CodesTable">
+						<thead>
+							<tr>
+								<th>
+									Product Code 
+								</th>			
+
+                                <th>
+									Description
+								</th>			                                
+                                
+								<th>
+									Quantity
+								</th>
+                                <th>
+								    FOB
+								</th>
+                                <th>
+								    Price 
+								</th>                                
+                                <th>
+									Unit
+								</th>	
+                                  <th>
+									Total (AED)
+								</th>	
+                                  <th style="width:60px;">                                        
+                                   </th>
+							</tr>
+						</thead>
+
+                    <tbody id="CsDiv">                                
+                        @for (int i = 0; i < Model.PoDetails.Count; i++)
+                        {
+                            	  <tr>
+									<td>
+								    <input asp-for="@Model.PoDetails[i].ProductCode" class="form-control form-control-plaintext" readonly />                                       
+                                                                               
+									</td>	
+
+                                                                        
+                                    <td>
+										<input asp-for="@Model.PoDetails[i].Description" class="form-control form-control-plaintext" readonly />										
+									</td>
+
+									<td>
+										<input asp-for="@Model.PoDetails[i].Quantity" class="form-control form-control-plaintext QtyTotal" readonly  />
+										<span asp-validation-for="@Model.PoDetails[i].Quantity" class="text-danger"></span>
+									</td>
+
+								    <td>
+										<input asp-for="@Model.PoDetails[i].Fob"  class="form-control form-control-plaintext FobTotal"  readonly  />
+										<span asp-validation-for="@Model.PoDetails[i].Fob" class="text-danger"></span>
+									</td>
+
+                                    <td>
+										<input asp-for="@Model.PoDetails[i].PrcInBaseCur" class="form-control form-control-plaintext PriceTotal" readonly />
+										<span asp-validation-for="@Model.PoDetails[i].PrcInBaseCur" class="text-danger"></span>
+									</td>
+                                    
+                                    <td>
+										<input asp-for="@Model.PoDetails[i].UnitName" class="form-control form-control-plaintext" readonly />										
+                                        <input type="hidden" asp-for="@Model.PoDetails[i].IsDeleted" />										
+									</td>
+                                                                           
+                                    <td>
+										<input asp-for="@Model.PoDetails[i].Total" class="form-control form-control-plaintext AmountTotal" readonly />										                                        
+									</td>
+
+                                     <td style="width:60px;">                                          
+                                        </td>
+                                    </tr>                                
+                        }
+                    </tbody>
+
+					</table>                      
+                    
+
+                  <table class="table table-sm mb-0 pb-0 border">
+						<thead>
+							<tr>
+								<th style="width:13%;">
+									Total
+								</th>	
+                                
+                                <th style="width:13%;">									
+								</th>
+                                
+								<th style="width:13%;">									
+                                    <input type="text" id="txtQtyTotal" class="form-control form-control-plaintext" value="" />
+								</th>
+
+                                <th style="width:13%;">								    
+								</th>
+
+                                <th style="width:13%;">								    
+								</th>                  
+                                
+                                <th style="width:13%;">									
+								</th>					
+
+                                <th style="width:13%;">									
+                                    <input type="text" id="txtAmountTotal" class="form-control form-control-plaintext" value="" />
+								</th>					
+                                
+                                 <th style="width:9%;">                                      
+                                </th>
+							</tr>
+						</thead>
+                        </table>
+
+				</div>
+
+
+            <div class="form-group col-12">            
+            </div>
+
+            <div class="form-group col-12">            
+            </div>
+     </div>
+
+    <div class="form-group btn-group col-1">
+         <div  class="form-group invisible">        
+                <select id="mySelect" class="form-control"  size="5" 
+                style="visibility: hidden;" asp-items="ViewBag.ProductList" >       
+                </select>        
+        </div>
+        <div ID="HiddenDiv" style="visibility: hidden;">
+            <input asp-for="PoDate" class="form-control" />
+             <select asp-for="BaseCurrencyId" class ="form-control" asp-items="ViewBag.BaseCurrencyList"></select>        
+        <input id="txtValue"  class="form-control col-2 invisible" />     
+        <select id="dropdownExRate" class="form-control"  size="1" style="visibility: hidden;"  asp-items="ViewBag.ExchangeRate" >       
+        </select>
+            <select id="dropdownUnitNames" class="form-control"  size="1" style="visibility: hidden;"  asp-items="ViewBag.UnitNames" >       
+            </select>        
+        </div> 
+    </div> 
+    
+    </div>   
+       
+         
+          <div class="form-group btn-group col-11">
+                <div class="col-1"></div>
+                <div class="col-5">
+                    <input type="submit" value="Delete" class="btn btn-danger btn-block" />
+                </div>           
+                <div class="col-5">
+                    <a class="btn btn-secondary btn-block" asp-action="index"
+                       asp-route-pg="@TempData.Peek("CurrentPage")">Back</a>
+                </div>     
+                <div class="col-1"></div>
+            </div>
+
+    
+        
+</form>
+
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");} 
+
+<script>
+ CalcTotals();
+</script>
+}

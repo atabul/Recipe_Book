@@ -1,0 +1,5 @@
+ <ul class="dropdown-menu" style="background:linear-gradient(to right,#28340B,#197696);">
+ <li class="nav-item">
+ <a class="nav-link @menuTextColor" asp-area="" asp-controller="PurchaseOrder" asp-action="Index">PurchaseOrder</a>
+ </li>
+ </ul>

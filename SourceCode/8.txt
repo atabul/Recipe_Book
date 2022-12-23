@@ -1,0 +1,32 @@
+
+function 8 {
+
+    var table;
+    table = document.getElementById('CodesTable');
+    var rows = table.getElementsByTagName('tr');
+    var rowOuterHtml = rows[rows.length - 1].outerHTML;
+
+    var lastrowIdx = rows.length - 2;
+
+    var nextrowIdx = eval(lastrowIdx) + 1;
+
+    rowOuterHtml = rowOuterHtml.replaceAll('_' + lastrowIdx + '_', '_' + nextrowIdx + '_');
+    rowOuterHtml = rowOuterHtml.replaceAll('[' + lastrowIdx + ']', '[' + nextrowIdx + ']');
+    rowOuterHtml = rowOuterHtml.replaceAll('-' + lastrowIdx, '-' + nextrowIdx);
+
+    var newRow = table.insertRow();
+    newRow.innerHTML = rowOuterHtml;
+
+    var x = document.getElementsByTagName("INPUT");
+
+    for (var cnt = 0; cnt < x.length; cnt++) {
+        if (x[cnt].type == "text" && x[cnt].id.indexOf('_' + nextrowIdx + '_') > 0) {
+            if (x[cnt].id.indexOf('Unit') == 0)
+                x[cnt].value = '';
+        }
+        else if (x[cnt].type == "number" && x[cnt].id.indexOf('_' + nextrowIdx + '_') > 0)
+            x[cnt].value = 0;
+    }
+
+    rebindvalidators();
+}

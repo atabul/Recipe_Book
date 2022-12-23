@@ -1,0 +1,169 @@
+﻿@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - RecipeBook</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+
+@{ 
+    string menuTextColor = "text-white";   
+
+}
+<body>
+
+    <div class="container-fluid" style="background:linear-gradient(to right,#28340B,#197696);">
+        <header>
+            <nav class="navbar navbar-expand-sm navbar-toggleable-sm border-bottom box-shadow mb-3">
+                <div class="container">
+                    <a class="navbar-brand @menuTextColor" asp-area="" asp-controller="Home" asp-action="Index">RecipeBook</a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                        <ul class="navbar-nav flex-grow-1">
+                            <li class="nav-item">
+                                <a class="nav-link @menuTextColor" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                            </li>
+                            @if (SignInManager.IsSignedIn(User))
+                            {
+
+                                <li class="dropdown nav-item pr-2">
+                                    <a class="nav-link dropdown-toggle @menuTextColor" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                                        Masters
+                                    </a>
+
+                                    <ul class="dropdown-menu" style="background:linear-gradient(to right,#28340B,#197696);">
+                                        <li class="nav-item">
+                                            <a class="nav-link @menuTextColor" asp-area="" asp-controller="Unit" asp-action="Index">Units</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link @menuTextColor" asp-area="" asp-controller="Product" asp-action="Index">Recipes</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link @menuTextColor" asp-area="" asp-controller="Category" asp-action="Index">Categories</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link @menuTextColor" asp-area="" asp-controller="Brand" asp-action="Index">Brands</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link @menuTextColor" asp-area="" asp-controller="ProductProfile" asp-action="Index">Recipe Profiles</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link @menuTextColor" asp-area="" asp-controller="ProductGroup" asp-action="Index">Recipe Groups</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link @menuTextColor" asp-area="" asp-controller="Supplier" asp-action="Index">Suppliers</a>
+                                        </li>
+                                         <li class="nav-item">
+                                            <a class="nav-link @menuTextColor" asp-area="" asp-controller="Currency" asp-action="Index">Currencies</a>
+                                        </li>                                       
+                                    </ul>
+                                </li>
+
+
+                                <li class="dropdown nav-item pr-2">
+                                    <a class="nav-link dropdown-toggle @menuTextColor" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                                        Transactions
+                                    </a>
+
+                                    <ul class="dropdown-menu" style="background:linear-gradient(to right,#28340B,#197696);">
+                                        <li class="nav-item">
+                                            <a class="nav-link @menuTextColor" asp-area="" asp-controller="PurchaseOrder" asp-action="Index">PurchaseOrder</a>
+                                        </li>
+                                    </ul>
+                                </li>
+
+
+
+                            }
+
+                            <li class="nav-item">
+                                <a class="nav-link @menuTextColor" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                            </li>
+                        </ul>
+
+                        <partial name="_LoginPartial" />
+
+
+                    </div>
+                </div>
+            </nav>
+        </header>
+    </div>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+
+
+            <!--Success Dialog Start-->
+            <div id="myModalSuccess" class="modal fade text-width:30%;" role="dialog">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+
+                        <div class="modal-header">
+                            <h2>Information</h2>
+                            <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        </div>
+
+                        <div id="MyModalSuccessAlertBody" class="modal-body alert alert-success">
+                            this is a modal body. our message will appear here.
+                        </div>
+
+                        <div class="modal-footer">
+                            &nbsp;
+                            <button type="button" class="btn btn-info" data-dismiss="modal">Close</button>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <!--Success Dialog End-->
+            <!--Error Dialog Start-->
+            <div id="myModalError" class="modal fade text-width:30%;" role="dialog">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+
+                        <div class="modal-header">
+                            <h2>Error</h2>
+                            <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        </div>
+
+                        <div id="MyModalErrorAlertBody" class="modal-body alert alert-danger">
+                            this is a modal body. our message will appear here.
+                        </div>
+
+                        <div class="modal-footer">
+                            &nbsp;
+                            <button type="button" class="btn btn-info" data-dismiss="modal">Close</button>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <!--Error Dialog End-->
+
+
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted" style="background:linear-gradient(to left,#28340B,#197696);">
+        <div class="container @menuTextColor ">
+            &copy; 2022 - RecipeBook - <a asp-area="" asp-controller="Home" asp-action="Privacy" class="@menuTextColor">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
+
+

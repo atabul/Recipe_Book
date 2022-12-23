@@ -1,0 +1,27 @@
+<script>
+ CalcTotals();
+</script>
+
+        public PoHeader GetItem(int Id)
+        {
+            PoHeader item = _context.PoHeaders.Where(i => i.Id == Id)
+                     .Include(d => d.PoDetails)
+                     .ThenInclude(i => i.Product)
+                     .ThenInclude(u => u.Units)
+                     .FirstOrDefault();
+
+
+            item.PoDetails.ForEach(i => i.UnitName = i.Product.Units.Name);
+            item.PoDetails.ForEach(p => p.Description = p.Product.Description);
+            item.PoDetails.ForEach(p => p.Total = p.Quantity * p.PrcInBaseCur);
+
+            return item;
+        }
+
+
+
+
+
+
+
+

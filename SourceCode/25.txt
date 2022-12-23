@@ -1,0 +1,73 @@
+      function ShowSearchableList(event)
+        {
+   
+            if (event.target.id.indexOf('ProductCode')<0) {
+                return;
+            }       
+
+      
+                var tid=event.target.id;                                              
+                
+                var txtDescId=tid.replaceAll('ProductCode', 'Description');
+                                      
+                var txtValue = document.getElementById('txtValue');
+                                
+                var txtText = document.getElementById(txtDescId);
+
+                var txtSearch = event.target;
+
+
+                var lstbox = document.getElementById("mySelect");                 
+                
+                $(txtSearch).after($(lstbox).show('slow'));    
+                
+                
+
+
+                if (event.keyCode === 13 || event.keyCode==9) {                         
+                   
+                    txtSearch.value=txtValue.value;                 
+                    lstbox.style.visibility = "hidden";   
+                    
+                    var divlst=document.getElementById("HiddenDiv");
+                    $(divlst).after($(lstbox).show('slow'));
+
+                    if(event.keyCode === 13)
+                    {                        
+                        event.preventDefault();
+                        txtSearch.focus();                        
+                        return;
+                    }
+                    else
+                    return;
+                }                               
+
+                setSameWidth(txtSearch, lstbox);                
+                lstbox.style.visibility = "visible";
+
+
+                txtValue.value = "";
+                txtText.value = "";
+                                
+                var items = lstbox.options;                                
+                for (var i = items.length - 1; i >= 0; i--) 
+                {                         
+                    if (items[i].text.toLowerCase().indexOf(txtSearch.value.toLowerCase()) >-1) 
+                        {                                                
+                            items[i].style.display = 'block';
+                            items[i].selected = true;                                                                            
+                            txtValue.value = items[i].value;
+                            txtText.value = items[i].text;                                                                                  
+                        }
+                        else
+                        {                                   
+                        items[i].style.display = 'none';
+                        items[i].selected = false;  
+                        }
+                } 
+                
+
+             var objDiv = document.getElementById("CsDiv");                          
+             objDiv.scrollTop = objDiv.scrollHeight-200;
+
+}

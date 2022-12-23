@@ -1,0 +1,18 @@
+		
+<table id="CodesTable" class="table table-borderless table-sm mb-0 pb-0 border CodesTable">
+<thead>
+<tr>
+<th>Product Code</th>			
+<th>Description</th>			                                                        
+<th>Quantity</th>
+<th>FOB</th>
+<th>Price</th>                                
+<th>Unit</th>	
+<th>Total (AED)</th>	
+<th style="width:60px;">
+<button id='btnAddDetailRow' type="button" class="btn btn-sm btn-secondary visible" onclick="AddItem(this)">
+Add
+</button>
+</th>
+</tr>
+</thead>

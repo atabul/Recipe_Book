@@ -1,0 +1,49 @@
+﻿@model InventoryBeginners.Models.Currency
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Delete</h1>
+
+<h4>Currency</h4>
+<hr />
+ <form asp-action="Delete">
+<div class="row">
+    <div class="col-md-4">
+
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" readonly />
+                
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <input asp-for="Description" class="form-control" readonly/>
+                
+            </div>
+            <div class="form-group">
+                <label asp-for="ExchangeCurrencyId" class="control-label"></label>
+                <select asp-for="ExchangeCurrencyId" class="form-control" asp-items="ViewBag.ExchangeCurrencyId" readonly></select>
+                
+            </div>
+            <div class="form-group">
+                <label asp-for="ExchangeRate" class="control-label"></label>
+                <input asp-for="ExchangeRate" class="form-control" readonly/>                
+            </div>
+      
+<div class="btn-group">    
+
+        <input type="submit" value="Delete" class="btn btn-danger" />
+        <a class="btn btn-secondary" asp-action="index"
+           asp-route-pg="@TempData.Peek("CurrentPage")">Back</a>
+</div>
+
+     
+    </div>
+    
+</div>
+</form>
+

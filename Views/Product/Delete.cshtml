@@ -1,0 +1,67 @@
+﻿@model InventoryBeginners.Models.Product
+
+@{
+    ViewData["Title"] = "Delete";
+
+    //int pg = 1;
+    //if (TempData["CurrentPage"] != null)
+    //{
+    //    pg = (int)TempData["CurrentPage"];
+    //    TempData["CurrentPage"] = pg;
+    //}
+}
+
+<h1>Delete</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+
+<form asp-action="Delete">
+    <div class="col-4">
+
+        <div class="form-group">
+            <label asp-for="Code" class="control-label"></label>
+            <input asp-for="Code" class="form-control" readonly />
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Name" class="control-label"></label>
+            <input asp-for="Name" class="form-control" readonly />
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Description" class="control-label"></label>
+            <input asp-for="Description" class="form-control" readonly />
+        </div>
+
+
+        <div class="form-group">
+            <label asp-for="Cost" class="control-label"></label>
+            <input asp-for="Cost" class="form-control" readonly />
+        </div>
+
+
+        <div class="form-group">
+            <label asp-for="Price" class="control-label"></label>
+            <input asp-for="Price" class="form-control" readonly />
+        </div>
+
+
+        <div class="form-group">
+            <label asp-for="UnitId" class="control-label"></label>
+            <input asp-for="@Model.Units.Name" class="form-control" readonly />
+        </div>
+
+
+        <div class="form-group btn-group">
+            <input type="submit" value="Delete" class="btn btn-danger" />
+            <a class="btn btn-secondary" asp-action="index"
+               asp-route-pg="@TempData.Peek("CurrentPage")">Back</a>
+        </div>
+    </div>
+</form>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+
+}

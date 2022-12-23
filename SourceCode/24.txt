@@ -1,0 +1,19 @@
+    [NotMapped]        
+    public decimal Total { get; set; }
+
+
+.QtyTotal {
+    background-image: none;
+}
+
+.FobTotal {
+    background-image: none;
+}
+
+.PriceTotal {
+    background-image: none;
+}
+
+.AmountTotal {
+    background-image: none;
+}

@@ -1,0 +1,7 @@
+ function setSameWidth(srcElement,desElement) {            
+            //style = window.getComputedStyle(srcElement);
+            //wdt = style.getPropertyValue('width');          
+            //desElement.style.width = wdt;
+            desElement.style.width = "230px";    
+        }
+

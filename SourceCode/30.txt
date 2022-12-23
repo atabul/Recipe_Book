@@ -1,0 +1,3 @@
+    <div class="card-header bg-danger text-uppercase text-white text-center mb-2 pt-0" style="height:25px;">
+			<h6>Purchase Order - Create </h6>
+</div>	

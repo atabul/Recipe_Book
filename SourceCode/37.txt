@@ -1,0 +1,66 @@
+
+    public bool Delete(PoHeader poHeader)
+        {
+            bool retVal = false;
+            _errors = "";
+
+            try
+            {
+                _context.Attach(poHeader);
+                _context.Entry(poHeader).State = EntityState.Deleted;
+                _context.SaveChanges();
+                retVal = true;
+            }
+            catch (Exception ex)
+            {
+                _errors = "Delete Failed - Sql Exception Occured , Error Info : " + ex.Message;
+            }
+            return retVal;
+        }
+
+
+   public IActionResult Delete(int id)
+        {
+            PoHeader item = _Repo.GetItem(id);
+
+            ViewBag.ProductList = GetProducts();
+            ViewBag.SupplierList = GetSuppliers();
+            ViewBag.PoCurrencyList = GetPoCurrencies();
+            ViewBag.BaseCurrencyList = GetBaseCurrencies();
+            
+
+            return View(item);
+        }
+
+        [HttpPost]
+        public IActionResult Delete(PoHeader item)
+        {
+            item.PoDetails.RemoveAll(a => a.Quantity == 0);
+
+
+            bool bolret = false;
+            string errMessage = "";
+            try
+            {
+                bolret = _Repo.Delete(item);
+            }
+            catch (Exception ex)
+            {
+                errMessage = errMessage + " " + ex.Message;
+            }
+
+
+            if (bolret == false)
+            {
+                errMessage = errMessage + " " + _Repo.GetErrors();
+
+                TempData["ErrorMessage"] = errMessage;
+                ModelState.AddModelError("", errMessage);
+                return View(item);
+            }
+            else
+            {
+                TempData["SuccessMessage"] = "" + item.PoNumber + " Deleted Successfully";
+                return RedirectToAction(nameof(Index));
+            }
+        }

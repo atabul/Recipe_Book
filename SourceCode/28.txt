@@ -1,0 +1,24 @@
+onchange="getExRate(this);"
+
+
+id="txtExchangeRate"
+
+
+
+    private List<SelectListItem> GetExchangeRate()
+        {
+            var lstCurrencies = new List<SelectListItem>();
+
+            PaginatedList<Currency> currencies = _CurrencyRepo.GetItems("Name", SortOrder.Ascending, "", 1, 1000);
+
+            lstCurrencies = currencies.Select(sp => new SelectListItem()
+            {
+                Value = sp.Id.ToString(),
+                Text = sp.ExchangeRate.ToString()
+            }).ToList();                                   
+
+            return lstCurrencies;
+        }
+
+
+     ViewBag.ExchangeRate = GetExchangeRate();

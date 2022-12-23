@@ -1,0 +1,33 @@
+
+<tr>
+<td>
+<input asp-for="@Model.PoDetails[i].ProductCode" class="form-control" />                                                                                                                 
+</td>	
+                                                                        
+<td>
+<input asp-for="@Model.PoDetails[i].Description" class="form-control form-control-plaintext" readonly />										
+</td>
+
+<td>
+<input asp-for="@Model.PoDetails[i].Quantity" class="form-control QtyTotal" />
+<span asp-validation-for="@Model.PoDetails[i].Quantity" class="text-danger"></span>
+</td>
+
+<td>
+<input asp-for="@Model.PoDetails[i].Fob" class="form-control FobTotal" />
+<span asp-validation-for="@Model.PoDetails[i].Fob" class="text-danger"></span>
+</td>
+
+<td>
+<input asp-for="@Model.PoDetails[i].PrcInBaseCur" class="form-control form-control-plaintext PriceTotal" readonly />
+<span asp-validation-for="@Model.PoDetails[i].PrcInBaseCur" class="text-danger"></span>
+</td>
+                                    
+<td>
+<input asp-for="@Model.PoDetails[i].UnitName" class="form-control form-control-plaintext" readonly />										
+<input type="hidden" asp-for="@Model.PoDetails[i].IsDeleted" />										
+</td>
+                                                                           
+<td>
+<input asp-for="@Model.PoDetails[i].Total" class="form-control form-control-plaintext AmountTotal" readonly />										                                        
+</td>

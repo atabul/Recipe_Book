@@ -1,0 +1,42 @@
+﻿@model InventoryBeginners.Models.ProductAttribute
+
+@{
+    string currentModel = ViewBag.AttributeName;
+
+    ViewData["Title"] = currentModel + " - Edit";
+}
+
+<h4>@currentModel - Edit</h4>
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <input type="hidden" asp-for="Id" />
+            <input type="hidden" asp-for="AttributeId" />
+
+
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group btn-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+                <a class="btn btn-secondary" asp-action="index" asp-route-attributeType="@ViewBag.AttributeId"
+                   asp-route-pg="@TempData.Peek("CurrentPage")">Back</a>
+            </div>
+
+        </form>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+
+}

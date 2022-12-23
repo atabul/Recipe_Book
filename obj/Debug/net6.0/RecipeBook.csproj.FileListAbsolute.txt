@@ -1,0 +1,1698 @@
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\appsettings.Development.json
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\appsettings.json
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\RecipeBook.staticwebassets.runtime.json
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\RecipeBook.exe
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\RecipeBook.deps.json
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\RecipeBook.runtimeconfig.json
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\RecipeBook.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\RecipeBook.pdb
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\mscorlib.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\netstandard.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.AppContext.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Buffers.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Collections.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.ComponentModel.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Configuration.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Console.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Core.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Data.Common.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Data.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Drawing.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Globalization.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.IO.Compression.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.IO.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Linq.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Memory.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Net.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Net.Http.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Net.Mail.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Net.Ping.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Net.Requests.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Net.Security.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Numerics.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.ObjectModel.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Reflection.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Security.Claims.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Security.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Security.Principal.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Text.Json.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Threading.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Transactions.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.ValueTuple.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Web.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Windows.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Xml.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\refs\WindowsBase.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Humanizer.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\MessagePack.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\NuGet.Common.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\New folder\RecipeBook\RecipeBook\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\New folder\RecipeBook\RecipeBook\obj\Debug\net6.0\RecipeBook.csproj.AssemblyReference.cache
+E:\New folder\RecipeBook\RecipeBook\obj\Debug\net6.0\RecipeBook.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\RecipeBook\RecipeBook\obj\Debug\net6.0\RecipeBook.AssemblyInfoInputs.cache
+E:\New folder\RecipeBook\RecipeBook\obj\Debug\net6.0\RecipeBook.AssemblyInfo.cs
+E:\New folder\RecipeBook\RecipeBook\obj\Debug\net6.0\RecipeBook.csproj.CoreCompileInputs.cache
+E:\New folder\RecipeBook\RecipeBook\obj\Debug\net6.0\RecipeBook.MvcApplicationPartsAssemblyInfo.cs
+E:\New folder\RecipeBook\RecipeBook\obj\Debug\net6.0\RecipeBook.MvcApplicationPartsAssemblyInfo.cache
+E:\New folder\RecipeBook\RecipeBook\obj\Debug\net6.0\RecipeBook.RazorAssemblyInfo.cache
+E:\New folder\RecipeBook\RecipeBook\obj\Debug\net6.0\RecipeBook.RazorAssemblyInfo.cs
+E:\New folder\RecipeBook\RecipeBook\obj\Debug\net6.0\staticwebassets.build.json
+E:\New folder\RecipeBook\RecipeBook\obj\Debug\net6.0\staticwebassets.development.json
+E:\New folder\RecipeBook\RecipeBook\obj\Debug\net6.0\scopedcss\bundle\RecipeBook.styles.css
+E:\New folder\RecipeBook\RecipeBook\obj\Debug\net6.0\RecipeBook.csproj.CopyComplete
+E:\New folder\RecipeBook\RecipeBook\obj\Debug\net6.0\RecipeBook.dll
+E:\New folder\RecipeBook\RecipeBook\obj\Debug\net6.0\refint\RecipeBook.dll
+E:\New folder\RecipeBook\RecipeBook\obj\Debug\net6.0\RecipeBook.pdb
+E:\New folder\RecipeBook\RecipeBook\obj\Debug\net6.0\RecipeBook.genruntimeconfig.cache
+E:\New folder\RecipeBook\RecipeBook\obj\Debug\net6.0\ref\RecipeBook.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\appsettings.json
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\RecipeBook.staticwebassets.runtime.json
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\RecipeBook.exe
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\RecipeBook.deps.json
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\RecipeBook.runtimeconfig.json
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\RecipeBook.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\RecipeBook.pdb
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\mscorlib.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\netstandard.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.AppContext.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Buffers.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Collections.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.ComponentModel.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Configuration.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Console.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Core.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Data.Common.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Data.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Drawing.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Globalization.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.IO.Compression.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.IO.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Linq.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Memory.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Net.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Net.Http.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Net.Mail.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Net.Ping.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Net.Requests.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Net.Security.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Numerics.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.ObjectModel.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Reflection.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Security.Claims.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Security.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Security.Principal.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Text.Json.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Threading.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Transactions.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.ValueTuple.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Web.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Windows.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Xml.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\refs\WindowsBase.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Acer\Desktop\RecipeBook\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Acer\Desktop\RecipeBook\obj\Debug\net6.0\RecipeBook.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\RecipeBook\obj\Debug\net6.0\RecipeBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\RecipeBook\obj\Debug\net6.0\RecipeBook.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\RecipeBook\obj\Debug\net6.0\RecipeBook.AssemblyInfo.cs
+C:\Users\Acer\Desktop\RecipeBook\obj\Debug\net6.0\RecipeBook.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\RecipeBook\obj\Debug\net6.0\RecipeBook.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Acer\Desktop\RecipeBook\obj\Debug\net6.0\RecipeBook.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Acer\Desktop\RecipeBook\obj\Debug\net6.0\RecipeBook.RazorAssemblyInfo.cache
+C:\Users\Acer\Desktop\RecipeBook\obj\Debug\net6.0\RecipeBook.RazorAssemblyInfo.cs
+C:\Users\Acer\Desktop\RecipeBook\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Acer\Desktop\RecipeBook\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Acer\Desktop\RecipeBook\obj\Debug\net6.0\scopedcss\bundle\RecipeBook.styles.css
+C:\Users\Acer\Desktop\RecipeBook\obj\Debug\net6.0\RecipeBook.csproj.CopyComplete
+C:\Users\Acer\Desktop\RecipeBook\obj\Debug\net6.0\RecipeBook.dll
+C:\Users\Acer\Desktop\RecipeBook\obj\Debug\net6.0\refint\RecipeBook.dll
+C:\Users\Acer\Desktop\RecipeBook\obj\Debug\net6.0\RecipeBook.pdb
+C:\Users\Acer\Desktop\RecipeBook\obj\Debug\net6.0\RecipeBook.genruntimeconfig.cache
+C:\Users\Acer\Desktop\RecipeBook\obj\Debug\net6.0\ref\RecipeBook.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\appsettings.Development.json
+E:\Projects\RecipeBook\bin\Debug\net6.0\appsettings.json
+E:\Projects\RecipeBook\bin\Debug\net6.0\RecipeBook.staticwebassets.runtime.json
+E:\Projects\RecipeBook\bin\Debug\net6.0\RecipeBook.exe
+E:\Projects\RecipeBook\bin\Debug\net6.0\RecipeBook.deps.json
+E:\Projects\RecipeBook\bin\Debug\net6.0\RecipeBook.runtimeconfig.json
+E:\Projects\RecipeBook\bin\Debug\net6.0\RecipeBook.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\RecipeBook.pdb
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\mscorlib.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\netstandard.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.AppContext.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Buffers.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Collections.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.ComponentModel.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Configuration.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Console.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Core.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Data.Common.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Data.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Drawing.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Globalization.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.IO.Compression.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.IO.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Linq.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Memory.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Net.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Net.Http.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Net.Mail.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Net.Ping.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Net.Requests.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Net.Security.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Numerics.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.ObjectModel.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Reflection.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Security.Claims.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Security.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Security.Principal.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Text.Json.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Threading.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Transactions.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.ValueTuple.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Web.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Windows.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Xml.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\refs\WindowsBase.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Humanizer.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\MessagePack.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\NuGet.Common.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+E:\Projects\RecipeBook\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+E:\Projects\RecipeBook\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\RecipeBook\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Projects\RecipeBook\obj\Debug\net6.0\RecipeBook.csproj.AssemblyReference.cache
+E:\Projects\RecipeBook\obj\Debug\net6.0\RecipeBook.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\RecipeBook\obj\Debug\net6.0\RecipeBook.AssemblyInfoInputs.cache
+E:\Projects\RecipeBook\obj\Debug\net6.0\RecipeBook.AssemblyInfo.cs
+E:\Projects\RecipeBook\obj\Debug\net6.0\RecipeBook.csproj.CoreCompileInputs.cache
+E:\Projects\RecipeBook\obj\Debug\net6.0\RecipeBook.MvcApplicationPartsAssemblyInfo.cs
+E:\Projects\RecipeBook\obj\Debug\net6.0\RecipeBook.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\RecipeBook\obj\Debug\net6.0\RecipeBook.RazorAssemblyInfo.cache
+E:\Projects\RecipeBook\obj\Debug\net6.0\RecipeBook.RazorAssemblyInfo.cs
+E:\Projects\RecipeBook\obj\Debug\net6.0\staticwebassets.build.json
+E:\Projects\RecipeBook\obj\Debug\net6.0\staticwebassets.development.json
+E:\Projects\RecipeBook\obj\Debug\net6.0\scopedcss\bundle\RecipeBook.styles.css
+E:\Projects\RecipeBook\obj\Debug\net6.0\RecipeBook.csproj.CopyComplete
+E:\Projects\RecipeBook\obj\Debug\net6.0\RecipeBook.dll
+E:\Projects\RecipeBook\obj\Debug\net6.0\refint\RecipeBook.dll
+E:\Projects\RecipeBook\obj\Debug\net6.0\RecipeBook.pdb
+E:\Projects\RecipeBook\obj\Debug\net6.0\RecipeBook.genruntimeconfig.cache
+E:\Projects\RecipeBook\obj\Debug\net6.0\ref\RecipeBook.dll

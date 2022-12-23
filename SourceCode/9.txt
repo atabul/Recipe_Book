@@ -1,0 +1,14 @@
+function 9() {
+
+
+    var $form = $("#CodeSbyAnizForm");
+
+    $form.unbind();
+
+    $form.data("validator", null);
+
+    $.validator.unobtrusive.parse($form);
+
+    $form.validate($form.data("unobtrusiveValidation").options);
+
+}

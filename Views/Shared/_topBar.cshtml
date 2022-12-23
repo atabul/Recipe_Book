@@ -1,0 +1,119 @@
+﻿
+@model PagerModel
+
+
+<style>
+    .page-link {
+        color: black !important;
+    }
+
+    .page-item.active .page-link {
+        z-index: 3;
+        color: #fff;
+        background-color: red !important;
+        border-color: red;
+    }
+</style>
+
+<div class="container btn-group" style="background-color:black; border-radius:10px; height:45px;">
+
+    <div class="col-4 p-0 justify-content-end mt-1">
+        <form asp-action="index">
+            <span class="btn-group">
+                <input class="form-control" type="text"
+                       name="SearchText"
+                       value="@ViewBag.SearchText"
+                       placeholder="Search Key" />
+
+                <span class="ml-2 btn-group btn-danger" style="border-radius:10px;">
+                    <i class="pl-2 fa fa-search align-self-center" aria-hidden="true"></i>
+                    <input class="btn btn-sm font-weight-bold text-white"
+                           type="submit" value="Search" />
+                </span>
+
+
+
+            </span>
+        </form>
+    </div>
+
+    <div class="container mt-1">
+
+        <ul class="pagination justify-content-end">
+
+            @if (Model.CurrentPage > 1)
+            {
+                <li class="page-item">
+                    <a class="page-link" asp-action="@Model.Action"
+                       asp-route-pg="1"
+                       asp-route-pageSize="@Model.PageSize"
+                       asp-route-SearchText="@Model.SearchText"
+                       asp-route-sortExpression="@Model.SortExpression">
+                        First
+                    </a>
+                </li>
+                <li class="page-item">
+                    <a class="page-link" asp-action="@Model.Action"
+                       asp-route-pg="@(Model.CurrentPage-1)"
+                       asp-route-pageSize="@Model.PageSize"
+                       asp-route-SearchText="@Model.SearchText"
+                       asp-route-sortExpression="@Model.SortExpression">
+                        Previous
+                    </a>
+                </li>
+            }
+
+
+
+            @for (var pge = Model.StartPage; pge <= Model.EndPage; pge++)
+            {
+                <li class="page-item @(pge==Model.CurrentPage ?"active" : "")">
+                    @if (pge != Model.CurrentPage)
+                    {
+                        <a class="page-link" asp-action="@Model.Action"
+                           asp-route-pg="@pge"
+                           asp-route-pageSize="@Model.PageSize"
+                           asp-route-SearchText="@Model.SearchText"
+                           asp-route-sortExpression="@Model.SortExpression">
+                            @pge
+                        </a>
+                    }
+                    else
+                    {
+                        <span class="page-link">@pge</span>
+                    }
+                </li>
+
+            }
+
+
+
+            @if (Model.CurrentPage < Model.TotalPages)
+            {
+                <li class="page-item">
+                    <a class="page-link" asp-action="@Model.Action"
+                       asp-route-pg="@(Model.CurrentPage+1)"
+                       asp-route-pageSize="@Model.PageSize"
+                       asp-route-SearchText="@Model.SearchText"
+                       asp-route-sortExpression="@Model.SortExpression">
+                        Next
+                    </a>
+                </li>
+                <li class="page-item">
+                    <a class="page-link" asp-action="@Model.Action"
+                       asp-route-pg="@(Model.TotalPages)"
+                       asp-route-pageSize="@Model.PageSize"
+                       asp-route-SearchText="@Model.SearchText"
+                       asp-route-sortExpression="@Model.SortExpression">
+                        Last
+                    </a>
+                </li>
+            }
+
+
+
+
+        </ul>
+    </div>
+
+</div>

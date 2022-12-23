@@ -1,0 +1,102 @@
+
+  public bool Edit(PoHeader poHeader)
+        {
+            bool retVal = false;
+            _errors = "";
+
+            try
+            {
+
+                List<PoDetail> poDetails = _context.PoDetails.Where(d => d.PoId == poHeader.Id).ToList();
+                _context.PoDetails.RemoveRange(poDetails);
+                _context.SaveChanges();
+
+                _context.Attach(poHeader);
+                _context.Entry(poHeader).State = EntityState.Modified;
+                _context.PoDetails.AddRange(poHeader.PoDetails);              
+                _context.SaveChanges();
+
+
+                retVal = true;
+            }
+            catch (Exception ex)
+            {
+                _errors = "Update Failed - Sql Exception Occured , Error Info : " + ex.Message;
+            }
+            return retVal;
+        }
+
+
+
+   private List<SelectListItem> GetUnitNames()
+        {
+            var lstProducts = new List<SelectListItem>();
+
+            PaginatedList<Product> products = _ProductRepo.GetItems("Name", SortOrder.Ascending, "", 1, 1000);
+
+            lstProducts = products.Select(ut => new SelectListItem()
+            {
+                Value = ut.Code.ToString(),
+                Text = ut.Units.Name
+            }).ToList();
+
+            var defItem = new SelectListItem()
+            {
+                Value = "",
+                Text = "----Select Unit----"
+            };
+            
+            lstProducts.Insert(0, defItem);
+
+            return lstProducts;
+        }
+
+
+
+
+ public IActionResult Edit(int id)
+        {
+            PoHeader item = _Repo.GetItem(id);
+
+            ViewBag.ProductList = GetProducts();
+            ViewBag.SupplierList = GetSuppliers();
+            ViewBag.PoCurrencyList = GetPoCurrencies();
+            ViewBag.BaseCurrencyList = GetBaseCurrencies();
+            ViewBag.ExchangeRate = GetExchangeRate();
+            ViewBag.UnitNames = GetUnitNames();
+
+            return View(item);
+        }
+
+        [HttpPost]
+        public IActionResult Edit(PoHeader item)
+        {
+            item.PoDetails.RemoveAll(a => a.Quantity == 0);
+
+
+            bool bolret = false;
+            string errMessage = "";
+            try
+            {
+                bolret = _Repo.Edit(item);
+            }
+            catch (Exception ex)
+            {
+                errMessage = errMessage + " " + ex.Message;
+            }
+
+
+            if (bolret == false)
+            {
+                errMessage = errMessage + " " + _Repo.GetErrors();
+
+                TempData["ErrorMessage"] = errMessage;
+                ModelState.AddModelError("", errMessage);
+                return View(item);
+            }
+            else
+            {
+                TempData["SuccessMessage"] = "" + item.PoNumber + " Modified Successfully";
+                return RedirectToAction(nameof(Index));
+            }
+        }

@@ -1,0 +1,115 @@
+﻿@model IEnumerable<InventoryBeginners.Models.ProductProfile>
+
+@{
+
+    string currentModel = Helper.GetTypeName(Model.GetType().ToString());
+
+    ViewData["Title"] = currentModel + " - Index";
+
+    SortModel sortModel = (SortModel)ViewData["sortModel"];
+
+    PagerModel pager = ViewBag.Pager;
+
+
+
+}
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css">
+
+
+<div class="container-fluid btn-group">
+    <div class="col-10">
+        <h3>@ViewData["Title"]</h3>
+    </div>
+    <div class="col-2 justify-content-end">
+        <p>
+            <a asp-action="Create" class="btn btn-success">Create New</a>
+        </p>
+    </div>
+</div>
+
+<br />
+
+
+
+
+
+
+<div class="row">
+    <div class="col-12">
+        <partial name="_topBar" model="@pager" />
+    </div>
+</div>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                <i class="@sortModel.GetColumn("name").SortIcon" arial-hidden="true"></i>
+
+                <a asp-action="Index" asp-route-sortExpression="@sortModel.GetColumn("name").SortExpression">
+                    @Html.DisplayNameFor(model => model.Name)
+                </a>
+            </th>
+            <th>
+
+                <i class="@sortModel.GetColumn("description").SortIcon" arial-hidden="true"></i>
+
+                <a asp-action="Index" asp-route-sortExpression="@sortModel.GetColumn("description").SortExpression">
+                    @Html.DisplayNameFor(model => model.Description)
+                </a>
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    <div class="btn-group">
+                        <a asp-action="Edit" asp-route-id="@item.Id">
+                            <span class="btn btn-sm btn-outline-primary">
+                                <i class="fa fa-edit" aria-hidden="true"></i>
+                            </span>
+                        </a>
+
+                        <a asp-action="Details" asp-route-id="@item.Id">
+                            <span class="btn btn-sm btn-outline-dark">
+                                <i class="fa fa-eye" aria-hidden="true"></i>
+                            </span>
+                        </a>
+
+                        <a asp-action="Delete" asp-route-id="@item.Id">
+                            <span class="btn btn-sm btn-outline-danger">
+                                <i class="fa fa-trash" aria-hidden="true"></i>
+                            </span>
+                        </a>
+
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+<div class="row">
+    <div class="col-12">
+        <partial name="_bottomBar" model="@pager" />
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+
+}
+
+

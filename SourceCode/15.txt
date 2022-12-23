@@ -1,0 +1,25 @@
+
+.CodesTable table {
+    width: 100%
+}
+
+.CodesTable thead {
+    width: calc(100%-1em);
+}
+
+.CodesTable tbody {
+    display: block;
+    height: 130px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+    .CodesTable thead, .CodesTable tbody tr {
+        display: table;
+        width: 98%;
+        table-layout: fixed;
+    }
+
+.CodesTable thead, .CodesTable tbody, .CodesTable td {
+    border: none !important;
+}

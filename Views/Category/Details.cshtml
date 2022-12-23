@@ -1,0 +1,33 @@
+﻿@model InventoryBeginners.Models.Category
+
+@{
+    string currentModel = Helper.GetTypeName(Model.GetType().ToString());
+    ViewData["Title"] = currentModel + " - Details";
+}
+
+<h1>@currentModel - Details</h1>
+
+<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+<div>    
+    <hr />
+
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+    </dl>
+</div>
+<div class="btn-group">
+    <a class="btn btn-primary" asp-action="Edit" asp-route-id="@Model.Id">Edit</a>
+    <a class="btn btn-secondary" asp-action="index"
+       asp-route-pg="@TempData["CurrentPage"]">Back</a>    
+</div>

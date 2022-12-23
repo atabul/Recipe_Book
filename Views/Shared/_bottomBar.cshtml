@@ -1,0 +1,43 @@
+﻿@model PagerModel
+
+<div class="container m-0 p-0 btn-group" style="background-color:black; border-radius:10px;  height:45px; color:white;">
+
+    <div class="col-4 btn-group p-1 m-1">
+        <p>
+            Showing @Model.StartRecord to @Model.EndRecord of @Model.TotalItems Rows
+        </p>
+    </div>
+
+
+
+    <div class="col-3 btn-group justify-content-end">
+        <span class="col-7 mt-2 p-0">
+            Rows Per Page
+        </span>
+
+        <span class="col-5 p-1">
+            <select class="form-control" id="pageSelector" asp-items="Model.GetPageSizes();"
+                    onchange="ChangePageSize(this);">
+            </select>
+        </span>
+    </div>
+
+
+
+    <div class="col-4 btn-group justify-content-end mt-2">
+        <p>
+            Showing @Model.CurrentPage / @Model.TotalPages Pages
+        </p>
+    </div>
+
+
+</div>
+
+<script>
+    function ChangePageSize(obj)
+    {
+        var controllerName = '@this.ViewContext.RouteData.Values["controller"].ToString()';
+        window.location.href = "/" + controllerName + "/@Model.Action" + "?pageSize=" + obj.value + "&SearchText@Model.SearchText" + "&sortExpression=" + "@Model.SortExpression";
+    }
+
+</script>

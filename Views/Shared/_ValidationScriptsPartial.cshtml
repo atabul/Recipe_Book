@@ -1,0 +1,18 @@
+﻿<script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        var errmsg = "@TempData["ErrorMessage"]";
+        if (errmsg)
+            openErrorModal(errmsg);
+
+
+        var msg = "@TempData["SuccessMessage"]";
+        if (msg)
+            openSuccessModal(msg);
+
+
+    });
+      
+
+</script>

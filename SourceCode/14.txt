@@ -1,0 +1,26 @@
+     <div class="form-group btn-group col-1">
+
+
+        <select id="dropdownExRate" class="form-control"  size="1" style="visibility: hidden;"  asp-items="ViewBag.ExchangeRate" >       
+        </select>
+
+         <div  class="form-group invisible">        
+                <select id="mySelect" class="form-control"  size="5" 
+                style="visibility: hidden;" asp-items="ViewBag.ProductList" >       
+                </select>        
+                 <input id="txtValue"  class="form-control col-2 invisible" />   
+        </div>
+
+        <div ID="HiddenDiv" style="visibility: hidden;">
+            <input asp-for="PoDate" class="form-control" />
+             <select asp-for="BaseCurrencyId" class ="form-control" 
+             asp-items="ViewBag.BaseCurrencyList"></select>       
+         
+      
+            <select id="dropdownUnitNames" class="form-control"  
+            size="1" style="visibility: hidden;" 
+            asp-items="ViewBag.UnitNames" >       
+            </select>        
+        </div> 
+
+    </div> 

@@ -1,0 +1,19 @@
+        document.addEventListener('change', function (e) {
+            if (event.target.id.indexOf('ProductCode')>=0)
+            {
+                SetUnitName(event.target);
+            }
+
+        },false);
+
+        document.addEventListener('change', function (e) {
+            if (e.target.classList.contains('QtyTotal')  
+            || e.target.classList.contains('PriceTotal')  
+            || e.target.classList.contains('FobTotal')
+            || event.target.id=='PoCurrencyId'            
+            ) 
+            {
+                CalcTotals();
+            } 
+        }
+        , false);

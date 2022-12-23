@@ -1,0 +1,45 @@
+﻿@model InventoryBeginners.Models.Supplier
+@{
+    ViewData["Title"] = "Delete";    
+}
+<h1>Delete</h1>
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Supplier</h4>
+    <hr />
+    <form asp-action="Delete">
+        <div>
+            <hr />
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="Code" class="control-label"></label>
+                <input asp-for="Code" class="form-control" readonly />
+            </div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" readonly />
+            </div>
+            <div class="form-group">
+                <label asp-for="EmailId" class="control-label"></label>
+                <input asp-for="EmailId" class="form-control" readonly />
+            </div>
+            <div class="form-group">
+                <label asp-for="PhoneNo" class="control-label"></label>
+                <input asp-for="PhoneNo" class="form-control" readonly />
+            </div>
+            <div class="form-group">
+                <label asp-for="Address" class="control-label"></label>
+                <textarea asp-for="Address" class="form-control" rows="4" readonly></textarea>
+            </div>
+        </div>
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Delete" class="btn btn-danger" />
+        <a class="btn btn-secondary" asp-action="index"
+           asp-route-pg="@TempData.Peek("CurrentPage")">Back</a>
+    </form>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+
+}
